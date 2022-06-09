@@ -1,0 +1,7 @@
+﻿Period,q,GEFs
+S2,0.3,NDVI
+S3,0.16,NDVI
+S2,0.07,Building
+S3,0.02,Building
+S2,0.1,Sidewalk
+S3,0.02,Sidewalk

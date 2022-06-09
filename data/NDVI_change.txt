@@ -1,0 +1,9 @@
+City	Change	Area
+Shenzhen	0.28 	Rural
+Shanghai	0.89 	Rural
+Beijing	0.28 	Rural
+Wuhan	1.52 	Rural
+Shenzhen	-0.05 	Urban
+Shanghai	0.35 	Urban
+Beijing	-0.18 	Urban
+Wuhan	1.24 	Urban
